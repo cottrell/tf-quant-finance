@@ -221,5 +221,4 @@ def _load_sobol_data():
   return polynomial_coefficients, direction_numbers
 
 
-(_PRIMITIVE_POLYNOMIAL_COEFFICIENTS,
- _INITIAL_DIRECTION_NUMBERS) = _load_sobol_data()
+# (_PRIMITIVE_POLYNOMIAL_COEFFICIENTS, _INITIAL_DIRECTION_NUMBERS) = _load_sobol_data()
